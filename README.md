@@ -1,1 +1,1 @@
-# grey-scott-model
+# Gray Scott Model of Reaction Diffusion
